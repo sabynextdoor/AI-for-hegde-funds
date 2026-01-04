@@ -1,4 +1,26 @@
-# Web Application
+AI Hedge Fund
+This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for educational purposes only and is not intended for real trading or investment.
+
+This system employs several agents working together:
+
+Aswath Damodaran Agent - The Dean of Valuation, focuses on story, numbers, and disciplined valuation
+Ben Graham Agent - The godfather of value investing, only buys hidden gems with a margin of safety
+Bill Ackman Agent - An activist investor, takes bold positions and pushes for change
+Cathie Wood Agent - The queen of growth investing, believes in the power of innovation and disruption
+Charlie Munger Agent - Warren Buffett's partner, only buys wonderful businesses at fair prices
+Michael Burry Agent - The Big Short contrarian who hunts for deep value
+Mohnish Pabrai Agent - The Dhandho investor, who looks for doubles at low risk
+Peter Lynch Agent - Practical investor who seeks "ten-baggers" in everyday businesses
+Phil Fisher Agent - Meticulous growth investor who uses deep "scuttlebutt" research
+Rakesh Jhunjhunwala Agent - The Big Bull of India
+Stanley Druckenmiller Agent - Macro legend who hunts for asymmetric opportunities with growth potential
+Warren Buffett Agent - The oracle of Omaha, seeks wonderful companies at a fair price
+Valuation Agent - Calculates the intrinsic value of a stock and generates trading signals
+Sentiment Agent - Analyzes market sentiment and generates trading signals
+Fundamentals Agent - Analyzes fundamental data and generates trading signals
+Technicals Agent - Analyzes technical indicators and generates trading signals
+Risk Manager - Calculates risk metrics and sets position limits
+Portfolio Manager - Makes final trading decisions and generates orders# Web Application
 The AI Hedge Fund app is a complete system with both frontend and backend components that enables you to run an AI-powered hedge fund trading system through a web interface on your own computer.
 
 <img width="1721" alt="Screenshot 2025-06-28 at 6 41 03 PM" src="https://github.com/user-attachments/assets/b95ab696-c9f4-416c-9ad1-51feb1f5374b" />
